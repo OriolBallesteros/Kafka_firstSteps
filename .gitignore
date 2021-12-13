@@ -1,0 +1,6 @@
+.idea
+
+target
+
+/src/main/resources/config.properties
+/producer/src/main/resources/config.properties
